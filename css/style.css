@@ -2,3 +2,8 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+* {
+    background-color: rgb(46, 98, 177);
+    color: crimson;
+    text-align: center;
+}
